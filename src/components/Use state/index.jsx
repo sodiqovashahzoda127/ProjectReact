@@ -18,7 +18,7 @@ function UseState() {
       <table border={"3px"} style={{ borderCollapse: "collapse" }}>
         <thead>
           <tr>
-            <th>Surname</th>
+            <th>Surnaame</th>
             <th>Name</th>
             <th>Title</th>
             <th>Number</th>
