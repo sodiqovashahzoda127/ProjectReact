@@ -1,0 +1,10 @@
+
+.table{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 50%;
+}
